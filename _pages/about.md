@@ -26,4 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
- I am a postdoctoral researcher at the Responsible AI Research Centre, affiliated with the Australian Institute for Machine Learning (AIML), Adelaide University. My research focuses on **operationalizing safe and responsible AI** from a **system-level perspective**, integrating methods from software engineering and AI governance. My recent research interests include the safety of foundation model-based agents.
+I am a postdoctoral researcher at the **Responsible AI Research Centre** within the [Australian Institute for Machine Learning (AIML)](https://www.adelaide.edu.au/aiml/), [University of Adelaide](https://www.adelaide.edu.au/). My work targets the **system-level operationalisation of safe and responsible AI**, combining software-engineering rigour with AI-governance principles. Current research interests include assurance and runtime safety for foundation-model agents.
+
+Before joining AIML, I was pursuing PhD with CSIRO’s Data61 and the University of New South Wales, supervised by [Prof. Liming Zhu](https://people.csiro.au/Z/L/Liming-Zhu), [Dr. Qinghua Lu](https://people.csiro.au/L/Q/Qinghua-Lu), [Prof. Zhenchang Xing](https://people.csiro.au/X/Z/Zhenchang-Xing/), and [Prof. Fethi Rabhi](https://www.unsw.edu.au/staff/fethi-rabhi). My doctoral research advanced methods for embedding AI-safety practices into real-world software systems.
+
