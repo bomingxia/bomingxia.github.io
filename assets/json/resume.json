@@ -4,8 +4,6 @@
     "label": "Postdoctoral Research Fellow",
     "image": "",
     "email": "boming.xia@adelaide.edu.au",
-
-    "url": "https://scholar.google.com/citations?user=EUbJ4YoAAAAJ",
     "summary": "Postdoctoral researcher at Responsible AI Research Centre, Australian Institute for Machine Learning (AIML), with a recent focuse on system-level safety of foundation-model agents.",
     "location": {
       "address": "Australian Institute for Machine Learning, Lot Fourteen, North Terrace",
@@ -33,9 +31,16 @@
       "name": "Responsible AI Research Centre, Australian Institute for Machine Learning, University of Adelaide",
       "position": "Postdoctoral Research Fellow",
       "url": "https://aiml.adelaide.edu.au/",
-      "startDate": "2025-05-12",
+      "startDate": "2025-05",
       "endDate": "",
       "summary": "Researching AgentOps architectures for dynamic safety, behavioural adaptation, and runtime risk governance; developing uncertainty-aware evaluation methods; contributing to cross-institutional grants on responsible-AI engineering."
+    },
+    {
+      "name": "CSIRO's Data61",
+      "position": "Research Technician",
+      "startDate": "2022-07",
+      "endDate": "2024-0",
+      "summary": "Researching safe and responsible AI, focusing on system-level AI risk assessment and mitigation, and the operationalisation of responsible AI engineering practices."
     }
   ],
 
@@ -43,7 +48,6 @@
     {
       "institution": "University of New South Wales",
       "location": "Sydney, Australia",
-      "url": "https://unsw.edu.au/",
       "area": "Computer Science & Engineering (Software Engineering)",
       "studyType": "PhD",
       "startDate": "2022-02-01",
@@ -54,22 +58,20 @@
     {
       "institution": "University of Science and Technology Beijing",
       "location": "Beijing, China",
-      "url": "https://en.ustb.edu.cn/",
       "area": "Computer Science",
       "studyType": "MEng by Research",
-      "startDate": "2018-09-01",
-      "endDate": "2021-01-01",
+      "startDate": "2018-09",
+      "endDate": "2021-01",
       "score": "",
       "courses": ["Event Detection in Sina Weibo"]
     },
     {
       "institution": "University of Science and Technology Beijing",
       "location": "Beijing, China",
-      "url": "https://en.ustb.edu.cn/",
       "area": "Information Security",
       "studyType": "BEng",
-      "startDate": "2014-08-01",
-      "endDate": "2018-06-01",
+      "startDate": "2014-08",
+      "endDate": "2018-06",
       "score": "",
       "courses": ["Edge-Computing-based Fingerprint Recognition System"]
     }
@@ -78,25 +80,22 @@
   "awards": [
     {
       "title": "Ivica Crnkovic Early Career Research Award",
-      "date": "2024-05-01",
       "awarder": "ACM/IEEE CAIN 2024",
       "url": "",
       "summary": ""
     },
     {
       "title": "R+ Postgraduate Top-Up Scholarship",
-      "date": "2022-01-01",
       "awarder": "CSIRO",
       "url": "",
       "summary": "Competitive scholarship supporting PhD research (2022-2025)."
     }
   ],
 
-  "community services": [
+  "volunteer": [
     {
       "organization": "4th International Conference on AI Engineering (CAIN 2025)",
       "position": "Publicity Co-Chair",
-      "url": "https://conf.researchr.org/series/cain",
       "summary": "Co-ordinating publicity for CAIN 2025.",
       "highlights": []
     },
