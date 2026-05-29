@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.adelaide.edu.au/aiml/'>Responsible AI Research Centre, Australian Institute for Machine Learning, Adelaide University</a>
+subtitle: Postdoctoral Research Fellow · <a href='https://www.adelaide.edu.au/aiml/'>Responsible AI Research Centre, Australian Institute for Machine Learning (AIML)</a>, University of Adelaide
 
 profile:
   align: right

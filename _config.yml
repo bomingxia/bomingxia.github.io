@@ -9,11 +9,11 @@ last_name: Xia
 contact_note: >
   Preferred contact method: email. Replies typically within 2–3 days.
 description: >
-  Postdoctoral researcher in Responsible AI and System-Level AI Safety. My work focuses on operationalizing AI safety through software engineering principles.
+  Boming Xia is a postdoctoral researcher in responsible AI and system-level AI safety at the Australian Institute for Machine Learning (AIML), University of Adelaide, operationalising AI safety through software-engineering principles.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Maintained by Boming Xia. Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Responsible AI, AI Safety, AI Engineering, SE4AI # add your own keywords or leave empty
+keywords: Boming Xia, Responsible AI, AI Safety, AI Engineering, SE4AI, LLM Evaluation, AI Agents, AgentOps, AI Governance, AIML Adelaide # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧑‍🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

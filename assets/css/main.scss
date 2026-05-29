@@ -23,3 +23,51 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/*******************************************************************************
+ * Custom site overrides — Boming Xia
+ * Placed after the theme imports so they win without editing _sass/ internals.
+ ******************************************************************************/
+
+/* --- Accent colour ---------------------------------------------------------
+ * Azure blue reads as "trust / safety" and suits responsible-AI work.
+ * Re-skin the entire site by editing the two hex values below.            */
+:root {
+  --global-theme-color: #0b5fd6;
+  --global-hover-color: #0b5fd6;
+  --global-code-bg-color: rgba(11, 95, 214, 0.06);
+}
+html[data-theme="dark"] {
+  --global-theme-color: #6ea8fe;
+  --global-hover-color: #6ea8fe;
+}
+
+/* --- Typography & motion --------------------------------------------------- */
+html {
+  scroll-behavior: smooth;
+}
+p {
+  line-height: 1.65; /* a little more breathing room for body copy */
+}
+a {
+  transition: color 0.15s ease-in-out;
+}
+
+/* --- Profile photo (about page) -------------------------------------------- */
+.profile img {
+  border-radius: 10px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+.profile img:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.18);
+}
+
+/* --- CV section cards: flatter, softer ------------------------------------- */
+.cv .card {
+  border: 0;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.07);
+}
