@@ -53,6 +53,13 @@ ninja.data = [{
           window.open("mailto:%62%6F%6D%69%6E%67.%78%69%61@%61%64%65%6C%61%69%64%65.%65%64%75.%61%75", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/boming-xia", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
