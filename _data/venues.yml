@@ -1,9 +1,45 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Venue badges shown on the publications page.
+# A bib entry's `abbr = {...}` must match one of these keys (case-sensitive).
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ICSE":
+  url: https://conf.researchr.org/series/icse
+  color: "#1f6feb"
 
-"Vision":
-  color: "#009f36"
+"CAIN":
+  url: https://conf.researchr.org/series/cain
+  color: "#8957e5"
+
+"ICSA":
+  url: https://conf.researchr.org/series/icsa
+  color: "#db61a2"
+
+"AIware":
+  url: https://conf.researchr.org/home/aiware-2026
+  color: "#3fb950"
+
+"TOSEM":
+  url: https://dl.acm.org/journal/tosem
+  color: "#d29922"
+
+"IEEE SW":
+  url: https://www.computer.org/csdl/magazine/so
+  color: "#00629b"
+
+"CSUR":
+  url: https://dl.acm.org/journal/csur
+  color: "#bf3989"
+
+"Blockchain":
+  url: https://ieeexplore.ieee.org/
+  color: "#0a7ea4"
+
+"IWCMC":
+  url: https://ieeexplore.ieee.org/
+  color: "#6e7681"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"Preprint":
+  color: "#6e7681"

@@ -4,7 +4,7 @@
     "label": "Postdoctoral Research Fellow",
     "image": "",
     "email": "boming.xia@adelaide.edu.au",
-    "summary": "Postdoctoral researcher at Responsible AI Research Centre, Australian Institute for Machine Learning (AIML), with a recent focus on system-level safety of foundation-model agents.",
+    "summary": "Postdoctoral researcher at the Responsible AI Research Centre, Australian Institute for Machine Learning (AIML), University of Adelaide. My work operationalises safe and responsible AI through system-level software engineering, with a focus on the evaluation of LLMs and agents, uncertainty propagation in LLM-based systems, AI risk assessment, and software/AI supply-chain security.",
     "location": {
       "address": "Australian Institute for Machine Learning, Lot Fourteen, North Terrace",
       "postalCode": "5000",
@@ -34,15 +34,16 @@
       "url": "https://aiml.adelaide.edu.au/",
       "startDate": "2025-05",
       "endDate": "",
-      "summary": "Researching AgentOps architectures for dynamic safety, behavioural adaptation, and runtime risk governance; developing uncertainty-aware evaluation methods; contributing to cross-institutional grants on responsible-AI engineering."
+      "summary": "Research on evaluation-driven design and uncertainty propagation in LLM-based systems; AgentOps architectures for runtime safety and risk governance; and uncertainty-aware evaluation of LLMs and agents. Contribute to cross-institutional grants in responsible AI and AI education, and supervise honours and postgraduate students."
     },
     {
       "name": "CSIRO's Data61",
       "location": "Sydney, Australia",
       "position": "Research Technician",
+      "url": "https://www.csiro.au/en/about/people/business-units/data61",
       "startDate": "2022-07",
-      "endDate": "2024-0",
-      "summary": "Researching safe and responsible AI, focusing on system-level AI risk assessment and mitigation, and the operationalisation of responsible AI engineering practices."
+      "endDate": "2024-07",
+      "summary": "Applied research on responsible AI systems, including software/AI supply-chain assurance (SBOM/AIBOM) and governance frameworks. Designed and ran empirical studies (systematic reviews, interviews, surveys, repository analyses) with industry and public-sector stakeholders."
     }
   ],
 
@@ -53,60 +54,130 @@
       "area": "Computer Science & Engineering (Software Engineering)",
       "studyType": "PhD",
       "startDate": "2022-02-01",
-      "endDate": "2025-04-01",
+      "endDate": "2025-08-01",
       "score": "",
-      "courses": ["Operationalising Safe and Responsible AI: A System-Level Perspective"]
+      "courses": ["Thesis: Operationalising Safe and Responsible AI: A System-Level Perspective"]
     },
     {
       "institution": "University of Science and Technology Beijing",
       "location": "Beijing, China",
-      "area": "Computer Science",
+      "area": "Computer Science & Technology",
       "studyType": "MEng by Research",
       "startDate": "2018-09",
       "endDate": "2021-01",
       "score": "",
-      "courses": ["Event Detection in Sina Weibo"]
+      "courses": ["Thesis: Event Detection in Sina Weibo (Chinese X/Twitter)"]
     },
     {
       "institution": "University of Science and Technology Beijing",
       "location": "Beijing, China",
-      "area": "Information Security",
+      "area": "Information Security (Computer Science)",
       "studyType": "BEng",
       "startDate": "2014-08",
       "endDate": "2018-06",
       "score": "",
-      "courses": ["Edge-Computing-based Fingerprint Recognition System"]
+      "courses": ["Thesis: Edge-Computing-based Fingerprint Recognition System"]
     }
   ],
 
   "awards": [
     {
       "title": "Ivica Crnkovic Early Career Research Award",
-      "awarder": "ACM/IEEE CAIN 2024",
+      "date": "2024",
+      "awarder": "ACM/IEEE CAIN 2024 (ICSE 2024)",
       "url": "",
-      "summary": ""
+      "summary": "Best paper / early-career recognition for work on a Responsible AI Metrics Catalogue."
     },
     {
       "title": "R+ Postgraduate Top-Up Scholarship",
+      "date": "2022",
       "awarder": "CSIRO",
       "url": "",
-      "summary": "Competitive scholarship supporting PhD research (2022-2025)."
+      "summary": "Competitive scholarship supporting PhD research (2022–2025)."
     }
   ],
 
   "volunteer": [
     {
-      "organization": "4th International Conference on AI Engineering (CAIN 2025)",
-      "position": "Publicity Co-Chair",
-      "summary": "Co-ordinating publicity for CAIN 2025.",
-      "highlights": []
+      "organization": "International conferences & workshops",
+      "position": "Organising Committee Roles",
+      "url": "https://conf.researchr.org/series/cain",
+      "startDate": "2024-01",
+      "endDate": "",
+      "summary": "Chair and committee roles across software-engineering and AI venues.",
+      "highlights": [
+        "Co-Chair — SAML 2027 (ICSA 2027)",
+        "Web Co-Chair — CAIN 2026",
+        "Web & Publicity Chair — RAIE 2024–2026 & AGENT 2026",
+        "Publicity Co-Chair — CAIN 2025"
+      ]
     },
     {
-      "organization": "Responsible AI Engineering Workshop (RAIE 2024 & 2025)",
-      "position": "Web & Publicity Chair",
-      "url": "https://conf.researchr.org/series/raie",
-      "summary": "Maintaining workshop website, CFP dissemination, and social-media outreach.",
+      "organization": "SE/AI conferences & workshops",
+      "position": "Program Committee Member",
+      "startDate": "2025-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["AIWare 2026", "CAIN 2025 & 2026", "SAML 2026", "SAGAI 2026"]
+    },
+    {
+      "organization": "International journals",
+      "position": "Journal Peer Reviewer",
+      "startDate": "2023-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "ACM Transactions on Software Engineering and Methodology (TOSEM)",
+        "IEEE Transactions on Software Engineering (TSE)",
+        "Journal of Systems and Software (JSS)",
+        "IEEE Internet of Things Journal",
+        "IEEE Security & Privacy"
+      ]
+    },
+    {
+      "organization": "ICSE 2023, Melbourne",
+      "position": "Student Volunteer",
+      "url": "https://conf.researchr.org/home/icse-2023",
+      "startDate": "2023-05",
+      "endDate": "2023-05",
+      "summary": "",
       "highlights": []
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Empirical Software Engineering",
+      "icon": "fa-solid fa-magnifying-glass-chart",
+      "keywords": ["Systematic literature reviews", "Semi-structured interviews", "Surveys", "Repository mining & analysis"]
+    },
+    {
+      "name": "AI Evaluation & Safety",
+      "icon": "fa-solid fa-shield-halved",
+      "keywords": ["LLM & agent evaluation", "Inspect (CyberSecEval)", "Moonshot / MLCommons AI Safety Benchmark", "NeMo Guardrails", "Uncertainty quantification"]
+    },
+    {
+      "name": "Engineering & Tooling",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "React.js", "Flask", "Git", "SBOM / AIBOM tooling"]
+    }
+  ],
+
+  "interests": [
+    {
+      "name": "Responsible AI & AI Safety",
+      "icon": "fa-solid fa-scale-balanced",
+      "keywords": ["System-level AI engineering", "AI risk assessment", "AI governance & assurance"]
+    },
+    {
+      "name": "LLM & Agent Systems",
+      "icon": "fa-solid fa-robot",
+      "keywords": ["LLM & agent evaluation", "Uncertainty propagation", "AgentOps", "Evaluation-driven design"]
+    },
+    {
+      "name": "Software & AI Supply Chain",
+      "icon": "fa-solid fa-link",
+      "keywords": ["SBOM", "AIBOM", "Supply-chain assurance"]
     }
   ],
 
@@ -117,13 +188,13 @@
       "icon": ""
     },
     {
-      "language": "Chinese",
+      "language": "Mandarin Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "French",
-      "fluency": "Learner",
+      "fluency": "Elementary",
       "icon": ""
     }
   ]

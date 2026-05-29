@@ -1,34 +1,35 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+# Frequent collaborators. Keyed by lowercase last name.
+# Each entry lists the first-name variants used in papers.bib and, optionally,
+# a URL so the name links to the coauthor's profile on the publications page.
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"zhu":
+  - firstname: ["Liming", "L."]
+    url: https://people.csiro.au/Z/L/Liming-Zhu
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"lu":
+  - firstname: ["Qinghua", "Q."]
+    url: https://people.csiro.au/L/Q/Qinghua-Lu
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"xing":
+  - firstname: ["Zhenchang", "Z."]
+    url: https://people.csiro.au/X/Z/Zhenchang-Xing
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"rabhi":
+  - firstname: ["Fethi", "Fethi A.", "F."]
+    url: https://www.unsw.edu.au/staff/fethi-rabhi
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"sejdinovic":
+  - firstname: ["Dino", "D."]
+    url: https://www.adelaide.edu.au/directory/dino.sejdinovic
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"xu":
+  - firstname: ["Xiwei", "X."]
+    url: https://people.csiro.au/X/X/Xiwei-Xu
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"staples":
+  - firstname: ["Mark", "M."]
+    url: https://people.csiro.au/S/M/Mark-Staples
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"whittle":
+  - firstname: ["Jon", "J."]
+    url: https://people.csiro.au/W/J/Jon-Whittle
